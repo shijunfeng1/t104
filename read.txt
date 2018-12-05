@@ -1,1 +1,4 @@
 github file push
+git checkout
+git add
+hello word!
